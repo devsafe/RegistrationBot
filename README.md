@@ -1,2 +1,2 @@
 # RegistrationBot
-Serverless Telegram Registration Bot (NodeJS)
+Serverless Telegram Registration Bot (Telegraf, NodeJS)
